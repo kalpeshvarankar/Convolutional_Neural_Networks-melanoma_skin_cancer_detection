@@ -1,4 +1,4 @@
-# CNN- Melanoma Skin Cancer Detection Assignment
+# CNN - Melanoma Skin Cancer Detection Assignment
 
 | CNN Architecture overview | Images used |
 | :---: | :---: |
