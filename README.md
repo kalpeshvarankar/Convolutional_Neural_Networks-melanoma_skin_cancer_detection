@@ -1,6 +1,6 @@
 # CNN- Melanoma Skin Cancer Detection Assignment
 
-<img src="https://github.com/kalpeshvarankar/CNN-Melanoma_Skin_Cancer_Detection./raw/main/Display/CNNgif.gif" width="450" height="350">
+<img src="https://github.com/kalpeshvarankar/CNN-Melanoma_Skin_Cancer_Detection./raw/main/Display/CNNgif.gif" width="450" height="270">
 
 
 ## Table of Contents
