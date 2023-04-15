@@ -2,7 +2,7 @@
 
 | CNN Architecture overview | Images used |
 | :---: | :---: |
-| <img src="https://github.com/kalpeshvarankar/Convolutional_Neural_Networks-Melanoma_Skin_Cancer_Detection/raw/main/Display/CNNgif.gif" width="450" height="270"> | <img src="Display/skimage.jpg" width="300" height="200"> |
+| <img src="https://github.com/kalpeshvarankar/Convolutional_Neural_Networks-melanoma_skin_cancer_detection/raw/main/Display/CNNgif.gif" width="450" height="270"> | <img src="Display/skimage.jpg" width="300" height="200"> |
 
 
 
