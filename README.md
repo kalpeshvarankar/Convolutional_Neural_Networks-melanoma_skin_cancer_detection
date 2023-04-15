@@ -16,7 +16,7 @@
   </tr>
   <tr>
     <td style="text-align: justify"> <ul><li>Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A solution that can evaluate images and alert dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis. Goal is to To build a custom (Without transfer learning )CNN based model which can accurately detect melanoma. Dataset: The dataset consists of 2357 images of malignant and benign oncological diseases, which were formed from the International Skin Imaging Collaboration (ISIC). All images were sorted according to the classification taken with ISIC, and all subsets were divided into the same number of images, with the exception of melanomas and moles, whose images are slightly dominant.</td>
-    <td align="center"><img src="./Display/CNNgif.gif" width="470"></td>
+    <td align="center"><img src="./Display/CNNgif.gif" width="400"></td>
   </tr>
 </table>
 
