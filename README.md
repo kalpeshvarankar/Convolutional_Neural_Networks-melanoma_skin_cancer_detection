@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td><img src="https://github.com/kalpeshvarankar/CNN-Melanoma_Skin_Cancer_Detection./raw/main/Display/CNNgif.gif" width="400" height="250"></td>
-    <td><img src="Display/skimage.jpg" width="300" height="250"></td>
+    <td><img src="Display/skimage.jpg" width="300" height="270"></td>
   </tr>
 </table>
 
