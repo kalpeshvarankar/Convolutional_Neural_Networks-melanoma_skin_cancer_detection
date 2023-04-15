@@ -5,7 +5,6 @@
 | <img src="https://github.com/kalpeshvarankar/Convolutional_Neural_Networks-melanoma_skin_cancer_detection/raw/main/Display/CNNgif.gif" width="450" height="270"> | <img src="Display/skimage.jpg" width="300" height="200"> |
 
 
-
 ## Table of Contents
 * [General Info]
 * [Technologies Used]
@@ -36,15 +35,12 @@
 - We used the augmentor to generate balanced train data for all classes.
 - Class imbalance problem was rectified and third model was built which gave Training and Validation accuracies as 95.09% and 81.59% respectively.
 
-
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
 
 ## Technologies Used
 - Python, Pandas, Numpy, Matplotlib, PathLib, TensorFlow, Keras, Glob, Augmentor
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
 
 ## Contact
 Created by [@kalpeshvarankar] - feel free to contact me!
